@@ -16,3 +16,7 @@ la suite
 
 puis remodifier le fichier dans `R` et le renvoyer sur Github
 
+la resuite
+--------------------
+puis modifier à nouveau dans Github et le récupérer en local
+
