@@ -9,5 +9,10 @@ voici une liste :
 * jouet
 * rose
 * bleu
-* éléphant
+* elephant
+
+la suite
+----------
+
+puis remodifier le fichier dans `R` et le renvoyer sur Github
 
